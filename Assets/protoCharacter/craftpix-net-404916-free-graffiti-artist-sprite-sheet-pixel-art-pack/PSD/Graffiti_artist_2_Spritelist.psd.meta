@@ -1,0 +1,5135 @@
+fileFormatVersion: 2
+guid: c1b519d9dda713d42bfc9871441e3ca6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2174096885545804422
+    second: Graffiti_artist_2_Spritelist_0
+  - first:
+      213: -983113106723883893
+    second: Graffiti_artist_2_Spritelist_1
+  - first:
+      213: 8564215410240690743
+    second: Graffiti_artist_2_Spritelist_2
+  - first:
+      213: 637072817992808348
+    second: Graffiti_artist_2_Spritelist_3
+  - first:
+      213: 8658124866863014811
+    second: Graffiti_artist_2_Spritelist_4
+  - first:
+      213: -1135436622967646150
+    second: Graffiti_artist_2_Spritelist_5
+  - first:
+      213: -7543609439838220828
+    second: Graffiti_artist_2_Spritelist_6
+  - first:
+      213: -5602649988574844193
+    second: Graffiti_artist_2_Spritelist_7
+  - first:
+      213: -3100211049517361659
+    second: Graffiti_artist_2_Spritelist_8
+  - first:
+      213: 5609652050417230143
+    second: Graffiti_artist_2_Spritelist_9
+  - first:
+      213: -385939544756962088
+    second: Graffiti_artist_2_Spritelist_10
+  - first:
+      213: 4541814583320277038
+    second: Graffiti_artist_2_Spritelist_11
+  - first:
+      213: -4472027429786578444
+    second: Graffiti_artist_2_Spritelist_12
+  - first:
+      213: -5184790026419848654
+    second: Graffiti_artist_2_Spritelist_13
+  - first:
+      213: 3231707734869401729
+    second: Graffiti_artist_2_Spritelist_14
+  - first:
+      213: 1902202151616766268
+    second: Graffiti_artist_2_Spritelist_15
+  - first:
+      213: -8521936491610902587
+    second: Graffiti_artist_2_Spritelist_16
+  - first:
+      213: 4369986307123781337
+    second: Graffiti_artist_2_Spritelist_17
+  - first:
+      213: -5483862194922981762
+    second: Graffiti_artist_2_Spritelist_18
+  - first:
+      213: -1722498775098554499
+    second: Graffiti_artist_2_Spritelist_19
+  - first:
+      213: 5118222060177408783
+    second: Graffiti_artist_2_Spritelist_20
+  - first:
+      213: -7449423166306896539
+    second: Graffiti_artist_2_Spritelist_21
+  - first:
+      213: -8515997275729617718
+    second: Graffiti_artist_2_Spritelist_22
+  - first:
+      213: -1748991139977184586
+    second: Graffiti_artist_2_Spritelist_23
+  - first:
+      213: 6232993047330676571
+    second: Graffiti_artist_2_Spritelist_24
+  - first:
+      213: -6621551278323820173
+    second: Graffiti_artist_2_Spritelist_25
+  - first:
+      213: 5466294178625294026
+    second: Graffiti_artist_2_Spritelist_26
+  - first:
+      213: -1984123517556413623
+    second: Graffiti_artist_2_Spritelist_27
+  - first:
+      213: 2241020680718416670
+    second: Graffiti_artist_2_Spritelist_28
+  - first:
+      213: -1641510911793277211
+    second: Graffiti_artist_2_Spritelist_29
+  - first:
+      213: -860134684320922041
+    second: Graffiti_artist_2_Spritelist_30
+  - first:
+      213: -102987807738169906
+    second: Graffiti_artist_2_Spritelist_31
+  - first:
+      213: 5193959341106539640
+    second: Graffiti_artist_2_Spritelist_32
+  - first:
+      213: -6844853973921991850
+    second: Graffiti_artist_2_Spritelist_33
+  - first:
+      213: 8830470584190413844
+    second: Graffiti_artist_2_Spritelist_34
+  - first:
+      213: 8400934560129893587
+    second: Graffiti_artist_2_Spritelist_35
+  - first:
+      213: -4142216479544456573
+    second: Graffiti_artist_2_Spritelist_36
+  - first:
+      213: -3061850713673428333
+    second: Graffiti_artist_2_Spritelist_37
+  - first:
+      213: -1615269191668078116
+    second: Graffiti_artist_2_Spritelist_38
+  - first:
+      213: 4966509668083656653
+    second: Graffiti_artist_2_Spritelist_39
+  - first:
+      213: -6257739803505834386
+    second: Graffiti_artist_2_Spritelist_40
+  - first:
+      213: 9047390696970078433
+    second: Graffiti_artist_2_Spritelist_41
+  - first:
+      213: 4719205693549792032
+    second: Graffiti_artist_2_Spritelist_42
+  - first:
+      213: -4353905392460729541
+    second: Graffiti_artist_2_Spritelist_43
+  - first:
+      213: -5572882351325762674
+    second: Graffiti_artist_2_Spritelist_44
+  - first:
+      213: -6898878340859793303
+    second: Graffiti_artist_2_Spritelist_45
+  - first:
+      213: -4387130264156658161
+    second: Graffiti_artist_2_Spritelist_46
+  - first:
+      213: -7990609314138278362
+    second: Graffiti_artist_2_Spritelist_47
+  - first:
+      213: 7227704917026577132
+    second: Graffiti_artist_2_Spritelist_48
+  - first:
+      213: -5163795134356919370
+    second: Graffiti_artist_2_Spritelist_49
+  - first:
+      213: -1529961292435722373
+    second: Graffiti_artist_2_Spritelist_50
+  - first:
+      213: 5766470255845581355
+    second: Graffiti_artist_2_Spritelist_51
+  - first:
+      213: -7524348905982229072
+    second: Graffiti_artist_2_Spritelist_52
+  - first:
+      213: -8992065597453308129
+    second: Graffiti_artist_2_Spritelist_53
+  - first:
+      213: 8867105280891456918
+    second: Graffiti_artist_2_Spritelist_54
+  - first:
+      213: 6426022466850271060
+    second: Graffiti_artist_2_Spritelist_55
+  - first:
+      213: -7984516663675115185
+    second: Graffiti_artist_2_Spritelist_56
+  - first:
+      213: -5175708272186961402
+    second: Graffiti_artist_2_Spritelist_57
+  - first:
+      213: -468141713904255402
+    second: Graffiti_artist_2_Spritelist_58
+  - first:
+      213: -5314615203332075997
+    second: Graffiti_artist_2_Spritelist_59
+  - first:
+      213: -3268265202245164465
+    second: Graffiti_artist_2_Spritelist_60
+  - first:
+      213: 7647714360854011468
+    second: Graffiti_artist_2_Spritelist_61
+  - first:
+      213: 8773333818089762989
+    second: Graffiti_artist_2_Spritelist_62
+  - first:
+      213: 1069191415639232226
+    second: Graffiti_artist_2_Spritelist_63
+  - first:
+      213: 2488318972330586476
+    second: Graffiti_artist_2_Spritelist_64
+  - first:
+      213: 8707549608266545962
+    second: Graffiti_artist_2_Spritelist_65
+  - first:
+      213: 5217357510697619670
+    second: Graffiti_artist_2_Spritelist_66
+  - first:
+      213: -1571766358358841276
+    second: Graffiti_artist_2_Spritelist_67
+  - first:
+      213: -8775419774641329951
+    second: Graffiti_artist_2_Spritelist_68
+  - first:
+      213: -2823503013520362267
+    second: Graffiti_artist_2_Spritelist_69
+  - first:
+      213: -3638403019613207497
+    second: Graffiti_artist_2_Spritelist_70
+  - first:
+      213: 2229095602460165727
+    second: Graffiti_artist_2_Spritelist_71
+  - first:
+      213: -371489070308473442
+    second: Graffiti_artist_2_Spritelist_72
+  - first:
+      213: -7754181652947112423
+    second: Graffiti_artist_2_Spritelist_73
+  - first:
+      213: -4346397589351176799
+    second: Graffiti_artist_2_Spritelist_74
+  - first:
+      213: -3936648070073215179
+    second: Graffiti_artist_2_Spritelist_75
+  - first:
+      213: -5379128822107264148
+    second: Graffiti_artist_2_Spritelist_76
+  - first:
+      213: -2930115605143138373
+    second: Graffiti_artist_2_Spritelist_77
+  - first:
+      213: -2284775459334886037
+    second: Graffiti_artist_2_Spritelist_78
+  - first:
+      213: -194634002090188503
+    second: Graffiti_artist_2_Spritelist_79
+  - first:
+      213: 449030046928157441
+    second: Graffiti_artist_2_Spritelist_80
+  - first:
+      213: -70810517525114985
+    second: Graffiti_artist_2_Spritelist_81
+  - first:
+      213: 4547239447207925803
+    second: Graffiti_artist_2_Spritelist_82
+  - first:
+      213: -5730596755261677254
+    second: Graffiti_artist_2_Spritelist_83
+  - first:
+      213: 7808917230726374021
+    second: Graffiti_artist_2_Spritelist_84
+  - first:
+      213: 2760299400510176370
+    second: Graffiti_artist_2_Spritelist_85
+  - first:
+      213: 2040126261282126789
+    second: Graffiti_artist_2_Spritelist_86
+  - first:
+      213: -5972816055937889898
+    second: Graffiti_artist_2_Spritelist_87
+  - first:
+      213: -4816339558299694954
+    second: Graffiti_artist_2_Spritelist_88
+  - first:
+      213: -8504099005048108387
+    second: Graffiti_artist_2_Spritelist_89
+  - first:
+      213: -1447406401034346835
+    second: Graffiti_artist_2_Spritelist_90
+  - first:
+      213: -5450228219971229302
+    second: Graffiti_artist_2_Spritelist_91
+  - first:
+      213: -8603170682226136629
+    second: Graffiti_artist_2_Spritelist_92
+  - first:
+      213: 8418920671641867845
+    second: Graffiti_artist_2_Spritelist_93
+  - first:
+      213: -7562117406358100526
+    second: Graffiti_artist_2_Spritelist_94
+  - first:
+      213: 1534837656210520903
+    second: Graffiti_artist_2_Spritelist_95
+  - first:
+      213: -3093947334219851338
+    second: Graffiti_artist_2_Spritelist_96
+  - first:
+      213: 7568068670871085473
+    second: Graffiti_artist_2_Spritelist_97
+  - first:
+      213: -1260575228500135421
+    second: Graffiti_artist_2_Spritelist_98
+  - first:
+      213: -9052133881187049827
+    second: Graffiti_artist_2_Spritelist_99
+  - first:
+      213: 6766154303484089962
+    second: Graffiti_artist_2_Spritelist_100
+  - first:
+      213: -1963264449201285520
+    second: Graffiti_artist_2_Spritelist_101
+  - first:
+      213: -491107148076086897
+    second: Graffiti_artist_2_Spritelist_102
+  - first:
+      213: 5726437941539594986
+    second: Graffiti_artist_2_Spritelist_103
+  - first:
+      213: 2837610451279143632
+    second: Graffiti_artist_2_Spritelist_104
+  - first:
+      213: -3643175438281450233
+    second: Graffiti_artist_2_Spritelist_105
+  - first:
+      213: 2895619578669070403
+    second: Graffiti_artist_2_Spritelist_106
+  - first:
+      213: -6203477572658535244
+    second: Graffiti_artist_2_Spritelist_107
+  - first:
+      213: 2800280390661433185
+    second: Graffiti_artist_2_Spritelist_108
+  - first:
+      213: -2163619763084526619
+    second: Graffiti_artist_2_Spritelist_109
+  - first:
+      213: 8054500382312558564
+    second: Graffiti_artist_2_Spritelist_110
+  - first:
+      213: 6031846539280777880
+    second: Graffiti_artist_2_Spritelist_111
+  - first:
+      213: -6842399261286094725
+    second: Graffiti_artist_2_Spritelist_112
+  - first:
+      213: -6159039157341467026
+    second: Graffiti_artist_2_Spritelist_113
+  - first:
+      213: -5963639191160227359
+    second: Graffiti_artist_2_Spritelist_114
+  - first:
+      213: 3438720982377911599
+    second: Graffiti_artist_2_Spritelist_115
+  - first:
+      213: 7450639557961049634
+    second: Graffiti_artist_2_Spritelist_116
+  - first:
+      213: -1204453639178409269
+    second: Graffiti_artist_2_Spritelist_117
+  - first:
+      213: 8210162926617285558
+    second: Graffiti_artist_2_Spritelist_118
+  - first:
+      213: 6314101735338837544
+    second: Graffiti_artist_2_Spritelist_119
+  - first:
+      213: 8220986758672150736
+    second: Graffiti_artist_2_Spritelist_120
+  - first:
+      213: 9199103883085879678
+    second: Graffiti_artist_2_Spritelist_121
+  - first:
+      213: -8085286998565821697
+    second: Graffiti_artist_2_Spritelist_122
+  - first:
+      213: 892100209467483079
+    second: Graffiti_artist_2_Spritelist_123
+  - first:
+      213: 2265014978846708731
+    second: Graffiti_artist_2_Spritelist_124
+  - first:
+      213: 2917132664089956258
+    second: Graffiti_artist_2_Spritelist_125
+  - first:
+      213: 5715103103508864539
+    second: Graffiti_artist_2_Spritelist_126
+  - first:
+      213: -3295939001650201348
+    second: Graffiti_artist_2_Spritelist_127
+  - first:
+      213: 1490654038998477868
+    second: Graffiti_artist_2_Spritelist_128
+  - first:
+      213: 2332816178514546700
+    second: Graffiti_artist_2_Spritelist_129
+  - first:
+      213: -2518133453940047547
+    second: Graffiti_artist_2_Spritelist_130
+  - first:
+      213: -3230794491266489543
+    second: Graffiti_artist_2_Spritelist_131
+  - first:
+      213: 4904414919323955202
+    second: Graffiti_artist_2_Spritelist_132
+  - first:
+      213: 2626149585630159116
+    second: Graffiti_artist_2_Spritelist_133
+  - first:
+      213: -8933857598237713324
+    second: Graffiti_artist_2_Spritelist_134
+  - first:
+      213: -2558543163561886603
+    second: Graffiti_artist_2_Spritelist_135
+  - first:
+      213: 681217683614106117
+    second: Graffiti_artist_2_Spritelist_136
+  - first:
+      213: -2228838864911736462
+    second: Graffiti_artist_2_Spritelist_137
+  - first:
+      213: 2364766207794302838
+    second: Graffiti_artist_2_Spritelist_138
+  - first:
+      213: -958005300809328166
+    second: Graffiti_artist_2_Spritelist_139
+  - first:
+      213: 3843442811349461473
+    second: Graffiti_artist_2_Spritelist_140
+  - first:
+      213: -4891251296118449118
+    second: Graffiti_artist_2_Spritelist_141
+  - first:
+      213: 2951019193792846374
+    second: Graffiti_artist_2_Spritelist_142
+  - first:
+      213: 410303702195042645
+    second: Graffiti_artist_2_Spritelist_143
+  - first:
+      213: -266835054953376281
+    second: Graffiti_artist_2_Spritelist_144
+  - first:
+      213: 3631215775253562869
+    second: Graffiti_artist_2_Spritelist_145
+  - first:
+      213: -6256998675080456939
+    second: Graffiti_artist_2_Spritelist_146
+  - first:
+      213: 392478586259975920
+    second: Graffiti_artist_2_Spritelist_147
+  - first:
+      213: 2585180717825450625
+    second: Graffiti_artist_2_Spritelist_148
+  - first:
+      213: 2437039100649544562
+    second: Graffiti_artist_2_Spritelist_149
+  - first:
+      213: 9130725555154716123
+    second: Graffiti_artist_2_Spritelist_150
+  - first:
+      213: 5562566643086027596
+    second: Graffiti_artist_2_Spritelist_151
+  - first:
+      213: 1228092481482119133
+    second: Graffiti_artist_2_Spritelist_152
+  - first:
+      213: 8173988877893476527
+    second: Graffiti_artist_2_Spritelist_153
+  - first:
+      213: -8857696543082815508
+    second: Graffiti_artist_2_Spritelist_154
+  - first:
+      213: -3812222430519740565
+    second: Graffiti_artist_2_Spritelist_155
+  - first:
+      213: -2485888073806240996
+    second: Graffiti_artist_2_Spritelist_156
+  - first:
+      213: -9210825514384500370
+    second: Graffiti_artist_2_Spritelist_157
+  - first:
+      213: -9148662864480073897
+    second: Graffiti_artist_2_Spritelist_158
+  - first:
+      213: 4370512517963691172
+    second: Graffiti_artist_2_Spritelist_159
+  - first:
+      213: -6508993542965448704
+    second: Graffiti_artist_2_Spritelist_160
+  - first:
+      213: 1923347766578223838
+    second: Graffiti_artist_2_Spritelist_161
+  - first:
+      213: 7584140191775192513
+    second: Graffiti_artist_2_Spritelist_162
+  - first:
+      213: -8747225183820922746
+    second: Graffiti_artist_2_Spritelist_163
+  - first:
+      213: 3843423225277531342
+    second: Graffiti_artist_2_Spritelist_164
+  - first:
+      213: 831377850923014609
+    second: Graffiti_artist_2_Spritelist_165
+  - first:
+      213: -7681679159275610346
+    second: Graffiti_artist_2_Spritelist_166
+  - first:
+      213: 5867662322027418345
+    second: Graffiti_artist_2_Spritelist_167
+  - first:
+      213: -2655124469636245329
+    second: Graffiti_artist_2_Spritelist_168
+  - first:
+      213: -4910203133076433351
+    second: Graffiti_artist_2_Spritelist_169
+  - first:
+      213: 6938983205449660451
+    second: Graffiti_artist_2_Spritelist_170
+  - first:
+      213: -6997550873018232382
+    second: Graffiti_artist_2_Spritelist_171
+  - first:
+      213: 1378265299425480300
+    second: Graffiti_artist_2_Spritelist_172
+  - first:
+      213: -491725597186163015
+    second: Graffiti_artist_2_Spritelist_173
+  - first:
+      213: -6960766175562657635
+    second: Graffiti_artist_2_Spritelist_174
+  - first:
+      213: -1654544304542870821
+    second: Graffiti_artist_2_Spritelist_175
+  - first:
+      213: -7733250573335747171
+    second: Graffiti_artist_2_Spritelist_176
+  - first:
+      213: 5500489922685109414
+    second: Graffiti_artist_2_Spritelist_177
+  - first:
+      213: -6816170773910435068
+    second: Graffiti_artist_2_Spritelist_178
+  - first:
+      213: 7017200204711107054
+    second: Graffiti_artist_2_Spritelist_179
+  - first:
+      213: 7232281057175945564
+    second: Graffiti_artist_2_Spritelist_180
+  - first:
+      213: -8218427536151199237
+    second: Graffiti_artist_2_Spritelist_181
+  - first:
+      213: -3776138202215711521
+    second: Graffiti_artist_2_Spritelist_182
+  - first:
+      213: -4182052687661567450
+    second: Graffiti_artist_2_Spritelist_183
+  - first:
+      213: 1296724625708876147
+    second: Graffiti_artist_2_Spritelist_184
+  - first:
+      213: 8661730665364093857
+    second: Graffiti_artist_2_Spritelist_185
+  - first:
+      213: -5948244109802843928
+    second: Graffiti_artist_2_Spritelist_186
+  - first:
+      213: 5005015178580456783
+    second: Graffiti_artist_2_Spritelist_187
+  - first:
+      213: 6658436078458949874
+    second: Graffiti_artist_2_Spritelist_188
+  - first:
+      213: 5972553138857783378
+    second: Graffiti_artist_2_Spritelist_189
+  - first:
+      213: -3120685536542931288
+    second: Graffiti_artist_2_Spritelist_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2815
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ad3a3991fb2e10800000000000000
+      internalID: 2174096885545804422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2815
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8431b396d74b52f0800000000000000
+      internalID: -983113106723883893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2815
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a925b5a843ad670800000000000000
+      internalID: 8564215410240690743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2815
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b4844a5657d800800000000000000
+      internalID: 637072817992808348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2815
+        width: 44
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a85691b6d72870800000000000000
+      internalID: 8658124866863014811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2815
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a385b0f386e1e30f0800000000000000
+      internalID: -1135436622967646150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2559
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc826ae27bf4790800000000000000
+      internalID: -7543609439838220828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2559
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda662ef4836f32b0800000000000000
+      internalID: -5602649988574844193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2559
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d6c0e976d9f4d0800000000000000
+      internalID: -3100211049517361659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2559
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3129a291dc79dd40800000000000000
+      internalID: 5609652050417230143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2559
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3cf1670ed4aaf0800000000000000
+      internalID: -385939544756962088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2565
+        width: 51
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e207e7acc44c70f30800000000000000
+      internalID: 4541814583320277038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2560
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f194c51fba20f1c0800000000000000
+      internalID: -4472027429786578444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2560
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab140f0fceb08b0800000000000000
+      internalID: -5184790026419848654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2560
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180e5c2001559dc20800000000000000
+      internalID: 3231707734869401729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2559
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31e91257caf56a10800000000000000
+      internalID: 1902202151616766268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2305
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfe71b79effbb980800000000000000
+      internalID: -8521936491610902587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2305
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de1f65a46f45ac30800000000000000
+      internalID: 4369986307123781337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2305
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fb62736865e3b0800000000000000
+      internalID: -5483862194922981762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2312
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7784308d747818e0800000000000000
+      internalID: -1722498775098554499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2336
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f034172a8d3970740800000000000000
+      internalID: 5118222060177408783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2331
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56536b659155e9890800000000000000
+      internalID: -7449423166306896539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2305
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc11ffe89911d980800000000000000
+      internalID: -8515997275729617718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2305
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baba5223d55ab7e0800000000000000
+      internalID: -1748991139977184586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2305
+        width: 40
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fdf99172a008650800000000000000
+      internalID: 6232993047330676571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2047
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799971e1368b14a0800000000000000
+      internalID: -6621551278323820173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2047
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0fb2089d2cdb40800000000000000
+      internalID: 5466294178625294026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2047
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2d815c2af674e0800000000000000
+      internalID: -1984123517556413623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2047
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b76888f64b91f10800000000000000
+      internalID: 2241020680718416670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2047
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e652a7d58e2839e0800000000000000
+      internalID: -1641510911793277211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2047
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460f02df003014f0800000000000000
+      internalID: -860134684320922041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1791
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f19f622d129ef0800000000000000
+      internalID: -102987807738169906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1791
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c2a708086a41840800000000000000
+      internalID: 5193959341106539640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1791
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65375f883913201a0800000000000000
+      internalID: -6844853973921991850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1791
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ca432e5322c8a70800000000000000
+      internalID: 8830470584190413844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1535
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d448dde87d169470800000000000000
+      internalID: 8400934560129893587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1535
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38acbf9ee04e386c0800000000000000
+      internalID: -4142216479544456573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1535
+        width: 44
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39218309ffe1285d0800000000000000
+      internalID: -3061850713673428333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1535
+        width: 42
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9edfd6a396599e0800000000000000
+      internalID: -1615269191668078116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1277
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76babba369ce440800000000000000
+      internalID: 4966509668083656653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1277
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66463bbdca0829a0800000000000000
+      internalID: -6257739803505834386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1277
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8431d57e9ce8d70800000000000000
+      internalID: 9047390696970078433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b490a239cfd7140800000000000000
+      internalID: 4719205693549792032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1350
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3378b01d12d393c0800000000000000
+      internalID: -4353905392460729541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2f22270529a2b0800000000000000
+      internalID: -5572882351325762674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1347
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9607a6863b24240a0800000000000000
+      internalID: -6898878340859793303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a39dc448cd13c0800000000000000
+      internalID: -4387130264156658161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1347
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6263cd33a27ab1190800000000000000
+      internalID: -7990609314138278362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea96b8f357fd4460800000000000000
+      internalID: 7227704917026577132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1346
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe3cb2fa38658b0800000000000000
+      internalID: -5163795134356919370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f65448f4c74cae0800000000000000
+      internalID: -1529961292435722373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1356
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b222887452e960050800000000000000
+      internalID: 5766470255845581355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1359
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b584d42984249790800000000000000
+      internalID: -7524348905982229072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1344
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe8ca2bf3c53380800000000000000
+      internalID: -8992065597453308129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8685e5494e0b70800000000000000
+      internalID: 8867105280891456918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1352
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2a471361dd2950800000000000000
+      internalID: 6426022466850271060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1357
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49257ee56c413190800000000000000
+      internalID: -7984516663675115185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1348
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602de3f9fb03c28b0800000000000000
+      internalID: -5175708272186961402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1277
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb13e6793d089f0800000000000000
+      internalID: -468141713904255402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1354
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e408f61a1be36b0800000000000000
+      internalID: -5314615203332075997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 1348
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4228645d1ac4a2d0800000000000000
+      internalID: -3268265202245164465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1348
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e5b5e11b3222a60800000000000000
+      internalID: 7647714360854011468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1351
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0792bdf9421c970800000000000000
+      internalID: 8773333818089762989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1347
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec21e7de786de00800000000000000
+      internalID: 1069191415639232226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6131a1fbe8488220800000000000000
+      internalID: 2488318972330586476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1343
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb1d0fb3e67d870800000000000000
+      internalID: 8707549608266545962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1346
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d019536307c76840800000000000000
+      internalID: 5217357510697619670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1135
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ac1c13d6ff2ae0800000000000000
+      internalID: -1571766358358841276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1137
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a0998532773680800000000000000
+      internalID: -8775419774641329951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1167
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4bfd008f6e0d8d0800000000000000
+      internalID: -2823503013520362267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1147
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7340f321bbbc18dc0800000000000000
+      internalID: -3638403019613207497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560603e3a65fee10800000000000000
+      internalID: 2229095602460165727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1121
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95c256a8a438daf0800000000000000
+      internalID: -371489070308473442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1150
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e6c3cbedc936490800000000000000
+      internalID: -7754181652947112423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1158
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5eb12bb6e7ea3c0800000000000000
+      internalID: -4346397589351176799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1149
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371f8100773e59c0800000000000000
+      internalID: -3936648070073215179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1167
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2b3d06de7955b0800000000000000
+      internalID: -5379128822107264148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1098
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf4d9ca1632657d0800000000000000
+      internalID: -2930115605143138373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1163
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d60d233d8da40e0800000000000000
+      internalID: -2284775459334886037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921a33408658c4df0800000000000000
+      internalID: -194634002090188503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1155
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b31a8d2764b3600800000000000000
+      internalID: 449030046928157441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1134
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fcd80a53e640ff0800000000000000
+      internalID: -70810517525114985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1169
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d8775f2a0b1f30800000000000000
+      internalID: 4547239447207925803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312f93fc94d870b0800000000000000
+      internalID: -5730596755261677254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1168
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5826fd119d8de5c60800000000000000
+      internalID: 7808917230726374021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1140
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf1291ead8e4620800000000000000
+      internalID: 2760299400510176370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbbaac860cff4c10800000000000000
+      internalID: 2040126261282126789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1149
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6998215417b4c1da0800000000000000
+      internalID: -5972816055937889898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1163
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69882e590bce82db0800000000000000
+      internalID: -4816339558299694954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1153
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aca55f20f5bf980800000000000000
+      internalID: -8504099005048108387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1160
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae98b40c87c9ebe0800000000000000
+      internalID: -1447406401034346835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1169
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892ecb7f46ec54b0800000000000000
+      internalID: -5450228219971229302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc92bd798d56b9880800000000000000
+      internalID: -8603170682226136629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1160
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5461869deb306d470800000000000000
+      internalID: 8418920671641867845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1139
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d52a34e846fd0790800000000000000
+      internalID: -7562117406358100526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b325667b6dc4510800000000000000
+      internalID: 1534837656210520903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1136
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b91f0eba471015d0800000000000000
+      internalID: -3093947334219851338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1141
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a80bdb5e270960800000000000000
+      internalID: 7568068670871085473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b79c2289818ee0800000000000000
+      internalID: -1260575228500135421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5190023c506280800000000000000
+      internalID: -9052133881187049827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1023
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6656aa8d7536ed50800000000000000
+      internalID: 6766154303484089962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1023
+        width: 44
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765431a26511c4e0800000000000000
+      internalID: -1963264449201285520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1108
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89054c96ac3f29f0800000000000000
+      internalID: -491107148076086897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae269c5c7f4687f40800000000000000
+      internalID: 5726437941539594986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1120
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ed6fcba7316720800000000000000
+      internalID: 2837610451279143632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_105
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1126
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d5ec2cd37d07dc0800000000000000
+      internalID: -3643175438281450233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_106
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1130
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3487c374aae4f2820800000000000000
+      internalID: 2895619578669070403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_107
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1127
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4e59dd302d8e9a0800000000000000
+      internalID: -6203477572658535244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_108
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167edd4cd289cd620800000000000000
+      internalID: 2800280390661433185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1023
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebf450f94749f1e0800000000000000
+      internalID: -2163619763084526619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1023
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efecf25c6557cf60800000000000000
+      internalID: 8054500382312558564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_111
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1023
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8920089287c65b350800000000000000
+      internalID: 6031846539280777880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_112
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1023
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a5abdf1aea01a0800000000000000
+      internalID: -6842399261286094725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_113
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1116
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec0f4b482b68aa0800000000000000
+      internalID: -6159039157341467026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_114
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1124
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9fb4a90c5ec3da0800000000000000
+      internalID: -5963639191160227359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_115
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1121
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25515ca38ac8bf20800000000000000
+      internalID: 3438720982377911599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_116
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226edb9e33df56760800000000000000
+      internalID: 7450639557961049634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_117
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1023
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca2850fbcbe84fe0800000000000000
+      internalID: -1204453639178409269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_118
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3da15beab50f170800000000000000
+      internalID: 8210162926617285558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_119
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1105
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8268c82231230a750800000000000000
+      internalID: 6314101735338837544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_120
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1102
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0f7dd76efc61270800000000000000
+      internalID: 8220986758672150736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_121
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 1112
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7910432e38c9af70800000000000000
+      internalID: 9199103883085879678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_122
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1109
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2666fff4a4bcf80800000000000000
+      internalID: -8085286998565821697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_123
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1038
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36c59f960616c00800000000000000
+      internalID: 892100209467483079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_124
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1023
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3d8196f13fe6f10800000000000000
+      internalID: 2265014978846708731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_125
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1029
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af45cdc3bcbb7820800000000000000
+      internalID: 2917132664089956258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_126
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1098
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ed0632eff105f40800000000000000
+      internalID: 5715103103508864539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_127
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1105
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb84dc0f87242d0800000000000000
+      internalID: -3295939001650201348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_128
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1095
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c618d53fddfa410800000000000000
+      internalID: 1490654038998477868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_129
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1023
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d4ae54f3df5020800000000000000
+      internalID: 2332816178514546700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_130
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1088
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54140ec17facd0dd0800000000000000
+      internalID: -2518133453940047547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_131
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1089
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a5c51789e923d0800000000000000
+      internalID: -3230794491266489543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_132
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1023
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003e69626bff0440800000000000000
+      internalID: 4904414919323955202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_133
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1086
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01668a5225f17420800000000000000
+      internalID: 2626149585630159116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_134
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 1093
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cdd1719df840480800000000000000
+      internalID: -8933857598237713324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_135
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1085
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb3696c8a3e7cd0800000000000000
+      internalID: -2558543163561886603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_136
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1065
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502888ebfdb247900800000000000000
+      internalID: 681217683614106117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_137
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1079
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271e95b7cd29111e0800000000000000
+      internalID: -2228838864911736462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_138
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1065
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f4d60465651d020800000000000000
+      internalID: 2364766207794302838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_139
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1081
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad99150314b74b2f0800000000000000
+      internalID: -958005300809328166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_140
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1075
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9630d9fd6a65530800000000000000
+      internalID: 3843442811349461473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_141
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1071
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd0b37cd8ce1cb0800000000000000
+      internalID: -4891251296118449118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_142
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1070
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ad163525024f820800000000000000
+      internalID: 2951019193792846374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_143
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1062
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559fc531b01b1b500800000000000000
+      internalID: 410303702195042645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_144
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1027
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5d1e76ee20c4cf0800000000000000
+      internalID: -266835054953376281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_145
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1071
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f588c2328ba46230800000000000000
+      internalID: 3631215775253562869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_146
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1064
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5155db32bdcaa29a0800000000000000
+      internalID: -6256998675080456939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_147
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1038
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe29fbd13d527500800000000000000
+      internalID: 392478586259975920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_148
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1053
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182ec2e7a2860e320800000000000000
+      internalID: 2585180717825450625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_149
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1047
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b14f9662a12d120800000000000000
+      internalID: 2437039100649544562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_150
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1045
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd50498048ad6be70800000000000000
+      internalID: 9130725555154716123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_151
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1029
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6490e3e4323d40800000000000000
+      internalID: 5562566643086027596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_152
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1026
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7d11eea9f0b0110800000000000000
+      internalID: 1228092481482119133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_153
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 1032
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a5d8a397df6170800000000000000
+      internalID: 8173988877893476527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_154
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1026
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd7559ce3231580800000000000000
+      internalID: -8857696543082815508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_155
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 767
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b673810c5e3481bc0800000000000000
+      internalID: -3812222430519740565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_156
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 767
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c132669b7f9508dd0800000000000000
+      internalID: -2485888073806240996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_157
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 767
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69d107eef29c2080800000000000000
+      internalID: -9210825514384500370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_158
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 773
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578bd0b89b690180800000000000000
+      internalID: -9148662864480073897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_159
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 774
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4bf97aafd27ac30800000000000000
+      internalID: 4370512517963691172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_160
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 790
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000bb3adbd86ba5a0800000000000000
+      internalID: -6508993542965448704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_161
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 799
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda9f667a9a11ba10800000000000000
+      internalID: 1923347766578223838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_162
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 798
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5f5896257404960800000000000000
+      internalID: 7584140191775192513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_163
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 782
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c0044a0d9b9680800000000000000
+      internalID: -8747225183820922746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_164
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 776
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec447206f05965530800000000000000
+      internalID: 3843423225277531342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_165
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 769
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d46620c5a98b00800000000000000
+      internalID: 831377850923014609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_166
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 767
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f1bd00181356590800000000000000
+      internalID: -7681679159275610346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_167
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 767
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2536e2bcf1e6150800000000000000
+      internalID: 5867662322027418345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_168
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 767
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa852e0cc5a172bd0800000000000000
+      internalID: -2655124469636245329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_169
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 768
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93618fd04447bdbb0800000000000000
+      internalID: -4910203133076433351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_170
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 768
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3287a3706783c4060800000000000000
+      internalID: 6938983205449660451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_171
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 767
+        width: 37
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1160c3e84b3ee90800000000000000
+      internalID: -6997550873018232382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_172
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 767
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ec08accf4902310800000000000000
+      internalID: 1378265299425480300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_173
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 511
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be70c4bc2a0d29f0800000000000000
+      internalID: -491725597186163015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_174
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 511
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9098050b04666f90800000000000000
+      internalID: -6960766175562657635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_175
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 511
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2939e98b0e909e0800000000000000
+      internalID: -1654544304542870821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_176
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 511
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95ac397399fda490800000000000000
+      internalID: -7733250573335747171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_177
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 511
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4034c117aa55c40800000000000000
+      internalID: 5500489922685109414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_178
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 255
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4ba47bc81861a0800000000000000
+      internalID: -6816170773910435068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 255
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee99a9f486a126160800000000000000
+      internalID: 7017200204711107054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_180
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 255
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5142c0ad493e5460800000000000000
+      internalID: 7232281057175945564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_181
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 255
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf14b6fe2b742fd80800000000000000
+      internalID: -8218427536151199237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_182
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc762adf46789bc0800000000000000
+      internalID: -3776138202215711521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_183
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f6ffec3d56f5c0800000000000000
+      internalID: -4182052687661567450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_184
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 24
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37101ee3d24eef110800000000000000
+      internalID: 1296724625708876147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_185
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 26
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab7229f526a43870800000000000000
+      internalID: 8661730665364093857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_186
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 27
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e054ed4f77937da0800000000000000
+      internalID: -5948244109802843928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_187
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 8
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45f9b689c2657540800000000000000
+      internalID: 5005015178580456783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_188
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 0
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d030e554876c50800000000000000
+      internalID: 6658436078458949874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_189
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25033c39f65c2e250800000000000000
+      internalID: 5972553138857783378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_artist_2_Spritelist_190
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 0
+        width: 109
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6c8a2e90911b4d0800000000000000
+      internalID: -3120685536542931288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Graffiti_artist_2_Spritelist_0: 2174096885545804422
+      Graffiti_artist_2_Spritelist_1: -983113106723883893
+      Graffiti_artist_2_Spritelist_10: -385939544756962088
+      Graffiti_artist_2_Spritelist_100: 6766154303484089962
+      Graffiti_artist_2_Spritelist_101: -1963264449201285520
+      Graffiti_artist_2_Spritelist_102: -491107148076086897
+      Graffiti_artist_2_Spritelist_103: 5726437941539594986
+      Graffiti_artist_2_Spritelist_104: 2837610451279143632
+      Graffiti_artist_2_Spritelist_105: -3643175438281450233
+      Graffiti_artist_2_Spritelist_106: 2895619578669070403
+      Graffiti_artist_2_Spritelist_107: -6203477572658535244
+      Graffiti_artist_2_Spritelist_108: 2800280390661433185
+      Graffiti_artist_2_Spritelist_109: -2163619763084526619
+      Graffiti_artist_2_Spritelist_11: 4541814583320277038
+      Graffiti_artist_2_Spritelist_110: 8054500382312558564
+      Graffiti_artist_2_Spritelist_111: 6031846539280777880
+      Graffiti_artist_2_Spritelist_112: -6842399261286094725
+      Graffiti_artist_2_Spritelist_113: -6159039157341467026
+      Graffiti_artist_2_Spritelist_114: -5963639191160227359
+      Graffiti_artist_2_Spritelist_115: 3438720982377911599
+      Graffiti_artist_2_Spritelist_116: 7450639557961049634
+      Graffiti_artist_2_Spritelist_117: -1204453639178409269
+      Graffiti_artist_2_Spritelist_118: 8210162926617285558
+      Graffiti_artist_2_Spritelist_119: 6314101735338837544
+      Graffiti_artist_2_Spritelist_12: -4472027429786578444
+      Graffiti_artist_2_Spritelist_120: 8220986758672150736
+      Graffiti_artist_2_Spritelist_121: 9199103883085879678
+      Graffiti_artist_2_Spritelist_122: -8085286998565821697
+      Graffiti_artist_2_Spritelist_123: 892100209467483079
+      Graffiti_artist_2_Spritelist_124: 2265014978846708731
+      Graffiti_artist_2_Spritelist_125: 2917132664089956258
+      Graffiti_artist_2_Spritelist_126: 5715103103508864539
+      Graffiti_artist_2_Spritelist_127: -3295939001650201348
+      Graffiti_artist_2_Spritelist_128: 1490654038998477868
+      Graffiti_artist_2_Spritelist_129: 2332816178514546700
+      Graffiti_artist_2_Spritelist_13: -5184790026419848654
+      Graffiti_artist_2_Spritelist_130: -2518133453940047547
+      Graffiti_artist_2_Spritelist_131: -3230794491266489543
+      Graffiti_artist_2_Spritelist_132: 4904414919323955202
+      Graffiti_artist_2_Spritelist_133: 2626149585630159116
+      Graffiti_artist_2_Spritelist_134: -8933857598237713324
+      Graffiti_artist_2_Spritelist_135: -2558543163561886603
+      Graffiti_artist_2_Spritelist_136: 681217683614106117
+      Graffiti_artist_2_Spritelist_137: -2228838864911736462
+      Graffiti_artist_2_Spritelist_138: 2364766207794302838
+      Graffiti_artist_2_Spritelist_139: -958005300809328166
+      Graffiti_artist_2_Spritelist_14: 3231707734869401729
+      Graffiti_artist_2_Spritelist_140: 3843442811349461473
+      Graffiti_artist_2_Spritelist_141: -4891251296118449118
+      Graffiti_artist_2_Spritelist_142: 2951019193792846374
+      Graffiti_artist_2_Spritelist_143: 410303702195042645
+      Graffiti_artist_2_Spritelist_144: -266835054953376281
+      Graffiti_artist_2_Spritelist_145: 3631215775253562869
+      Graffiti_artist_2_Spritelist_146: -6256998675080456939
+      Graffiti_artist_2_Spritelist_147: 392478586259975920
+      Graffiti_artist_2_Spritelist_148: 2585180717825450625
+      Graffiti_artist_2_Spritelist_149: 2437039100649544562
+      Graffiti_artist_2_Spritelist_15: 1902202151616766268
+      Graffiti_artist_2_Spritelist_150: 9130725555154716123
+      Graffiti_artist_2_Spritelist_151: 5562566643086027596
+      Graffiti_artist_2_Spritelist_152: 1228092481482119133
+      Graffiti_artist_2_Spritelist_153: 8173988877893476527
+      Graffiti_artist_2_Spritelist_154: -8857696543082815508
+      Graffiti_artist_2_Spritelist_155: -3812222430519740565
+      Graffiti_artist_2_Spritelist_156: -2485888073806240996
+      Graffiti_artist_2_Spritelist_157: -9210825514384500370
+      Graffiti_artist_2_Spritelist_158: -9148662864480073897
+      Graffiti_artist_2_Spritelist_159: 4370512517963691172
+      Graffiti_artist_2_Spritelist_16: -8521936491610902587
+      Graffiti_artist_2_Spritelist_160: -6508993542965448704
+      Graffiti_artist_2_Spritelist_161: 1923347766578223838
+      Graffiti_artist_2_Spritelist_162: 7584140191775192513
+      Graffiti_artist_2_Spritelist_163: -8747225183820922746
+      Graffiti_artist_2_Spritelist_164: 3843423225277531342
+      Graffiti_artist_2_Spritelist_165: 831377850923014609
+      Graffiti_artist_2_Spritelist_166: -7681679159275610346
+      Graffiti_artist_2_Spritelist_167: 5867662322027418345
+      Graffiti_artist_2_Spritelist_168: -2655124469636245329
+      Graffiti_artist_2_Spritelist_169: -4910203133076433351
+      Graffiti_artist_2_Spritelist_17: 4369986307123781337
+      Graffiti_artist_2_Spritelist_170: 6938983205449660451
+      Graffiti_artist_2_Spritelist_171: -6997550873018232382
+      Graffiti_artist_2_Spritelist_172: 1378265299425480300
+      Graffiti_artist_2_Spritelist_173: -491725597186163015
+      Graffiti_artist_2_Spritelist_174: -6960766175562657635
+      Graffiti_artist_2_Spritelist_175: -1654544304542870821
+      Graffiti_artist_2_Spritelist_176: -7733250573335747171
+      Graffiti_artist_2_Spritelist_177: 5500489922685109414
+      Graffiti_artist_2_Spritelist_178: -6816170773910435068
+      Graffiti_artist_2_Spritelist_179: 7017200204711107054
+      Graffiti_artist_2_Spritelist_18: -5483862194922981762
+      Graffiti_artist_2_Spritelist_180: 7232281057175945564
+      Graffiti_artist_2_Spritelist_181: -8218427536151199237
+      Graffiti_artist_2_Spritelist_182: -3776138202215711521
+      Graffiti_artist_2_Spritelist_183: -4182052687661567450
+      Graffiti_artist_2_Spritelist_184: 1296724625708876147
+      Graffiti_artist_2_Spritelist_185: 8661730665364093857
+      Graffiti_artist_2_Spritelist_186: -5948244109802843928
+      Graffiti_artist_2_Spritelist_187: 5005015178580456783
+      Graffiti_artist_2_Spritelist_188: 6658436078458949874
+      Graffiti_artist_2_Spritelist_189: 5972553138857783378
+      Graffiti_artist_2_Spritelist_19: -1722498775098554499
+      Graffiti_artist_2_Spritelist_190: -3120685536542931288
+      Graffiti_artist_2_Spritelist_2: 8564215410240690743
+      Graffiti_artist_2_Spritelist_20: 5118222060177408783
+      Graffiti_artist_2_Spritelist_21: -7449423166306896539
+      Graffiti_artist_2_Spritelist_22: -8515997275729617718
+      Graffiti_artist_2_Spritelist_23: -1748991139977184586
+      Graffiti_artist_2_Spritelist_24: 6232993047330676571
+      Graffiti_artist_2_Spritelist_25: -6621551278323820173
+      Graffiti_artist_2_Spritelist_26: 5466294178625294026
+      Graffiti_artist_2_Spritelist_27: -1984123517556413623
+      Graffiti_artist_2_Spritelist_28: 2241020680718416670
+      Graffiti_artist_2_Spritelist_29: -1641510911793277211
+      Graffiti_artist_2_Spritelist_3: 637072817992808348
+      Graffiti_artist_2_Spritelist_30: -860134684320922041
+      Graffiti_artist_2_Spritelist_31: -102987807738169906
+      Graffiti_artist_2_Spritelist_32: 5193959341106539640
+      Graffiti_artist_2_Spritelist_33: -6844853973921991850
+      Graffiti_artist_2_Spritelist_34: 8830470584190413844
+      Graffiti_artist_2_Spritelist_35: 8400934560129893587
+      Graffiti_artist_2_Spritelist_36: -4142216479544456573
+      Graffiti_artist_2_Spritelist_37: -3061850713673428333
+      Graffiti_artist_2_Spritelist_38: -1615269191668078116
+      Graffiti_artist_2_Spritelist_39: 4966509668083656653
+      Graffiti_artist_2_Spritelist_4: 8658124866863014811
+      Graffiti_artist_2_Spritelist_40: -6257739803505834386
+      Graffiti_artist_2_Spritelist_41: 9047390696970078433
+      Graffiti_artist_2_Spritelist_42: 4719205693549792032
+      Graffiti_artist_2_Spritelist_43: -4353905392460729541
+      Graffiti_artist_2_Spritelist_44: -5572882351325762674
+      Graffiti_artist_2_Spritelist_45: -6898878340859793303
+      Graffiti_artist_2_Spritelist_46: -4387130264156658161
+      Graffiti_artist_2_Spritelist_47: -7990609314138278362
+      Graffiti_artist_2_Spritelist_48: 7227704917026577132
+      Graffiti_artist_2_Spritelist_49: -5163795134356919370
+      Graffiti_artist_2_Spritelist_5: -1135436622967646150
+      Graffiti_artist_2_Spritelist_50: -1529961292435722373
+      Graffiti_artist_2_Spritelist_51: 5766470255845581355
+      Graffiti_artist_2_Spritelist_52: -7524348905982229072
+      Graffiti_artist_2_Spritelist_53: -8992065597453308129
+      Graffiti_artist_2_Spritelist_54: 8867105280891456918
+      Graffiti_artist_2_Spritelist_55: 6426022466850271060
+      Graffiti_artist_2_Spritelist_56: -7984516663675115185
+      Graffiti_artist_2_Spritelist_57: -5175708272186961402
+      Graffiti_artist_2_Spritelist_58: -468141713904255402
+      Graffiti_artist_2_Spritelist_59: -5314615203332075997
+      Graffiti_artist_2_Spritelist_6: -7543609439838220828
+      Graffiti_artist_2_Spritelist_60: -3268265202245164465
+      Graffiti_artist_2_Spritelist_61: 7647714360854011468
+      Graffiti_artist_2_Spritelist_62: 8773333818089762989
+      Graffiti_artist_2_Spritelist_63: 1069191415639232226
+      Graffiti_artist_2_Spritelist_64: 2488318972330586476
+      Graffiti_artist_2_Spritelist_65: 8707549608266545962
+      Graffiti_artist_2_Spritelist_66: 5217357510697619670
+      Graffiti_artist_2_Spritelist_67: -1571766358358841276
+      Graffiti_artist_2_Spritelist_68: -8775419774641329951
+      Graffiti_artist_2_Spritelist_69: -2823503013520362267
+      Graffiti_artist_2_Spritelist_7: -5602649988574844193
+      Graffiti_artist_2_Spritelist_70: -3638403019613207497
+      Graffiti_artist_2_Spritelist_71: 2229095602460165727
+      Graffiti_artist_2_Spritelist_72: -371489070308473442
+      Graffiti_artist_2_Spritelist_73: -7754181652947112423
+      Graffiti_artist_2_Spritelist_74: -4346397589351176799
+      Graffiti_artist_2_Spritelist_75: -3936648070073215179
+      Graffiti_artist_2_Spritelist_76: -5379128822107264148
+      Graffiti_artist_2_Spritelist_77: -2930115605143138373
+      Graffiti_artist_2_Spritelist_78: -2284775459334886037
+      Graffiti_artist_2_Spritelist_79: -194634002090188503
+      Graffiti_artist_2_Spritelist_8: -3100211049517361659
+      Graffiti_artist_2_Spritelist_80: 449030046928157441
+      Graffiti_artist_2_Spritelist_81: -70810517525114985
+      Graffiti_artist_2_Spritelist_82: 4547239447207925803
+      Graffiti_artist_2_Spritelist_83: -5730596755261677254
+      Graffiti_artist_2_Spritelist_84: 7808917230726374021
+      Graffiti_artist_2_Spritelist_85: 2760299400510176370
+      Graffiti_artist_2_Spritelist_86: 2040126261282126789
+      Graffiti_artist_2_Spritelist_87: -5972816055937889898
+      Graffiti_artist_2_Spritelist_88: -4816339558299694954
+      Graffiti_artist_2_Spritelist_89: -8504099005048108387
+      Graffiti_artist_2_Spritelist_9: 5609652050417230143
+      Graffiti_artist_2_Spritelist_90: -1447406401034346835
+      Graffiti_artist_2_Spritelist_91: -5450228219971229302
+      Graffiti_artist_2_Spritelist_92: -8603170682226136629
+      Graffiti_artist_2_Spritelist_93: 8418920671641867845
+      Graffiti_artist_2_Spritelist_94: -7562117406358100526
+      Graffiti_artist_2_Spritelist_95: 1534837656210520903
+      Graffiti_artist_2_Spritelist_96: -3093947334219851338
+      Graffiti_artist_2_Spritelist_97: 7568068670871085473
+      Graffiti_artist_2_Spritelist_98: -1260575228500135421
+      Graffiti_artist_2_Spritelist_99: -9052133881187049827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
