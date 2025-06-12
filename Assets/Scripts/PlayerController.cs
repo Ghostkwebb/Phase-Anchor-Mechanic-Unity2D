@@ -68,14 +68,14 @@ public class PlayerController : MonoBehaviour
     private void HandleMovement()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
-        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
     }
 
     private void HandleJumping()
     {
         if (jumpRequested && isGrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
             anim.SetTrigger("Jump");
             jumpRequested = false;
         }
@@ -113,7 +113,7 @@ public class PlayerController : MonoBehaviour
         mousePosition.z = 0;
         Vector2 shootDirection = (mousePosition - transform.position).normalized;
         currentProjectile = Instantiate(projectilePrefab, transform.position, Quaternion.identity);
-        currentProjectile.GetComponent<Rigidbody2D>().linearVelocity = shootDirection * projectileSpeed;
+        currentProjectile.GetComponent<Rigidbody2D>().velocity = shootDirection * projectileSpeed;
     }
 
     private void Teleport()

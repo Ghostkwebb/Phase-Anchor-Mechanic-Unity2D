@@ -28,7 +28,7 @@ public class Projectile : MonoBehaviour
         // If it hits a wall, stick to it so the player can teleport
         if (other.CompareTag("Wall"))
         {
-            rb.linearVelocity = Vector2.zero;
+            rb.velocity = Vector2.zero;
             rb.bodyType = RigidbodyType2D.Kinematic;
             // We DON'T destroy it here
         }
