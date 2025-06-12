@@ -1,4 +1,4 @@
-# Phase Anchor Mechanic - Unity2D
+# Phase Anchor Mechanic - Unity2D [Prrof of Concept]
 
 This repository contains a simple project demonstrating a "Phase Anchor" mechanic in Unity 2D. The player can shoot a projectile and then teleport to its location.
 
