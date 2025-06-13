@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Rescue Princess.sln"
+    "dotnet.defaultSolution": "Phase-Anchor-Mechanic-Unity2D.sln"
 }
